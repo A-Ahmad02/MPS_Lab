@@ -1,0 +1,10 @@
+.\ss_intr_funcs.o: ss_intr_funcs.c
+.\ss_intr_funcs.o: ss_int_addr.h
+.\ss_intr_funcs.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\ss_intr_funcs.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\ss_intr_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\ss_intr_funcs.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ss_intr_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ss_intr_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ss_intr_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\ss_intr_funcs.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

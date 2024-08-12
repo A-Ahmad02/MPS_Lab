@@ -1,0 +1,10 @@
+.\num_ss_funcs.o: num_ss_funcs.c
+.\num_ss_funcs.o: gpio_addr.h
+.\num_ss_funcs.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\num_ss_funcs.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\num_ss_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\num_ss_funcs.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\num_ss_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\num_ss_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\num_ss_funcs.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\num_ss_funcs.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

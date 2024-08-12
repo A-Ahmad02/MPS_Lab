@@ -1,0 +1,11 @@
+.\uart_intr_init.o: Uart_intr_init.c
+.\uart_intr_init.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\uart_intr_init.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\uart_intr_init.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\uart_intr_init.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\uart_intr_init.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\uart_intr_init.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\uart_intr_init.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\uart_intr_init.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\uart_intr_init.o: interrupts.h
+.\uart_intr_init.o: uart0.h

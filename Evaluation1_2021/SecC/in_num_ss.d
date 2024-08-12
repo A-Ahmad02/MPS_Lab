@@ -1,0 +1,10 @@
+.\in_num_ss.o: in_num_ss.c
+.\in_num_ss.o: gpio_addr.h
+.\in_num_ss.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\in_num_ss.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\in_num_ss.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\in_num_ss.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\in_num_ss.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\in_num_ss.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\in_num_ss.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\in_num_ss.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

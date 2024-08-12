@@ -1,0 +1,344 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\DriveA\Workspaces\Keil\CEP\MPS_CEP.uvproj
+Project File Date:  12/21/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(548): warning:  #111-D: statement is unreachable
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(626): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(631): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(631): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(636): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(636): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(636): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=2400 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 14 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(623): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=10412 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(611): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2396 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(611): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2396 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(611): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2396 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(601): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(606): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(611): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(616): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(621): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2396 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2396 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2396 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(546): warning:  #111-D: statement is unreachable
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(602): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(607): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=2392 RO-data=652 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(623): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(623): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Failed!
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Connection failed!, error code=&d
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPU6050.c...
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(623): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPU6050.c(643): warning:  #1-D: last line of file ends without a newline
+MPU6050.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 14 Warning(s).
+Load "C:\\DriveA\\Workspaces\\Keil\\CEP\\MPS_CEP.axf" 
+Warning: OSC to JTAG clock ratio violation - JTAG clock has been automatically adjusted to comply.
+Connecting: Mode=JTAG, Speed=1600000Hz
+Erase Done.
+Programming Done.
+Verify OK.
