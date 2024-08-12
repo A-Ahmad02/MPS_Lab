@@ -1,0 +1,12 @@
+Dependencies for Project 'Switch_LEDs', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x654E54AC)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Program Files\ARM\RV31\INC"-I "C:\Program Files\ARM\CMSIS\Include"-I "C:\Program Files\ARM\Inc\TI\TM4C123"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\interrupt_template.c)(0x65486034)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I... -I..\..\Keil-I "C:\Program Files\ARM\RV31\INC"-I "C:\Program Files\ARM\CMSIS\Include"-I "C:\Program Files\ARM\Inc\TI\TM4C123"-DTM4C123GH6PM-o .\interrupt_template.o --omf_browse .\interrupt_template.crf --depend .\interrupt_template.d)
+I (C:\Program Files\ARM\Inc\TI\TM4C123\TM4C123.h)(0x51C7DB0E)
+I (C:\Program Files\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h)(0x51C7DB0E)
+I (C:\Program Files\ARM\CMSIS\Include\core_cm4.h)(0x51C7DF7A)
+I (C:\Program Files\ARM\ARMCC\include\stdint.h)(0x51C7E174)
+I (C:\Program Files\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7DF7A)
+I (C:\Program Files\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7DF7A)
+I (C:\Program Files\ARM\CMSIS\Include\core_cm4_simd.h)(0x51C7DF7A)
+I (C:\Program Files\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x51C7DB0E)
+F (..\address.h)(0x656E9C2C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I... -I..\..\Keil-I "C:\Program Files\ARM\RV31\INC"-I "C:\Program Files\ARM\CMSIS\Include"-I "C:\Program Files\ARM\Inc\TI\TM4C123"-DTM4C123GH6PM-o .\address.o --omf_browse .\address.crf --depend .\address.d)
