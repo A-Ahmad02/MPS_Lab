@@ -12,4 +12,4 @@ Experiment 9  -> Timers and Time Base Generation \
 Experiment 10 -> PWM Generation Using Timers \
 OEL 1 -> Interfacing WiFi Module \
 OEL 2 -> Interfacing IMU Sensor \
-CEA   -> Gesture Controlled Car \
+CEA   -> Gesture Controlled Car 
