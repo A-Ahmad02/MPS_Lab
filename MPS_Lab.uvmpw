@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\Exp 1\first_proj.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp5_Blinky\Blue\Blue_Blinky.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp5_Blinky\Green\Green_Blinky.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp5_Blinky\Red\Red_Blinky.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp6_7-Seg\HELO_2021\2021.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp6_7-Seg\UOFS_HELO\UOFS.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp7\Switch_LEDs.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp8\UART0\UART0.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp8\UART2\UART2.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Mid_B\Mids_B.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\OEL1\Wifi_module.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\OEL2\MPU6050.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\Exp9\Timers.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+</ProjectWorkspace>
